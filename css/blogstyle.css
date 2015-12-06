@@ -1,0 +1,33 @@
+img {
+  width: 400px;
+}
+
+.post1 {
+  background-color: #e5c8ef;
+}
+
+.post2 {
+  background-color: #c8efd2;
+}
+
+.post3 {
+  background-color: #e5c8ef;
+}
+
+.about {
+  background-color: #efe5c8;
+  text-align: center;
+}
+
+p.about {
+  width: 60%;
+}
+
+.name {
+  font-weight: bold;
+  font-style: italic;
+}
+
+img.aboutpic {
+  width: 100px;
+}
