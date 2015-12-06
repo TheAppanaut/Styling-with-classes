@@ -1,0 +1,39 @@
+span.title {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+span.name {
+  font-weight: bold;
+}
+
+span.company {
+  font-style: italic;
+}
+
+.dates {
+  font-style: italic;
+}
+
+.profile {
+  background-color: #eedcf5;
+  color: white;
+  font-family: sans-serif;
+}
+
+.experience {
+  background-color: #e5c8ef;
+  color: white;
+}
+
+.education {
+  background-color: #dbb5e9;
+  color: white;
+  font-style: italic;
+}
+
+.references {
+  background-color: #d2a1e3;
+  color: white;
+  font-weight: bolder;
+}
