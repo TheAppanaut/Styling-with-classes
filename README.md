@@ -1,4 +1,4 @@
-# _Cascading Practice_
+# _Styling with classes_
 
 ##### _12/4/2015_
 
